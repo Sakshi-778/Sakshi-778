@@ -1,16 +1,20 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Sakshi-778/Sakshi-778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Sakshi Bhintade, an aspiring Java Developer and Full Stack Developer.
 
-Here are some ideas to get you started:
+📄 Check out my [Resume](C:\Users\hp\Desktop\Sakshi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Check out my [Portfolio]() to see my projects and work.
+
+## Skills
+- Java
+- Spring Boot
+- HTML
+- CSS
+- Bootstrap
+- MySQL
+
+## Projects
+- PNG Jewellers Website
+- Omnifood Website
+- Portfolio Website
