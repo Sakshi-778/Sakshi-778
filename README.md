@@ -2,9 +2,9 @@
 
 Hello! I'm Sakshi Bhintade, an aspiring Java Developer and Full Stack Developer.
 
-📄 Check out my [Resume](C:\Users\hp\Desktop\Sakshi)
+📄 Check out my [Resume](https://github.com/Sakshi-778/Resume)
 
-🌐 Check out my [Portfolio](C:\Users\hp\Desktop\Sakshi\ReactProject\myPortfollio) to see my projects and work.
+🌐 Check out my [Portfolio](https://github.com/Sakshi-778/My_Portfolio) to see my projects and work.
 
 ## Skills
 - Java
